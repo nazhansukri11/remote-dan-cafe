@@ -1,4 +1,3 @@
-import Link from "next/link";
 import CafeCard from "@/components/CafeCard";
 
 export default function Home() {
